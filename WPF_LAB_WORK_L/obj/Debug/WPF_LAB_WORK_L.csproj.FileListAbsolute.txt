@@ -1,0 +1,15 @@
+C:\Users\vrrrr\source\repos\WPF_LAB_WORK_L\obj\Debug\WPF_LAB_WORK_L.csproj.AssemblyReference.cache
+C:\Users\vrrrr\source\repos\WPF_LAB_WORK_L\obj\Debug\App.g.cs
+C:\Users\vrrrr\source\repos\WPF_LAB_WORK_L\obj\Debug\WPF_LAB_WORK_L_MarkupCompile.cache
+C:\Users\vrrrr\source\repos\WPF_LAB_WORK_L\bin\Debug\WPF_LAB_WORK_L.exe.config
+C:\Users\vrrrr\source\repos\WPF_LAB_WORK_L\bin\Debug\WPF_LAB_WORK_L.exe
+C:\Users\vrrrr\source\repos\WPF_LAB_WORK_L\bin\Debug\WPF_LAB_WORK_L.pdb
+C:\Users\vrrrr\source\repos\WPF_LAB_WORK_L\obj\Debug\MainWindow.g.cs
+C:\Users\vrrrr\source\repos\WPF_LAB_WORK_L\obj\Debug\WPF_LAB_WORK_L_MarkupCompile.lref
+C:\Users\vrrrr\source\repos\WPF_LAB_WORK_L\obj\Debug\MainWindow.baml
+C:\Users\vrrrr\source\repos\WPF_LAB_WORK_L\obj\Debug\WPF_LAB_WORK_L.g.resources
+C:\Users\vrrrr\source\repos\WPF_LAB_WORK_L\obj\Debug\WPF_LAB_WORK_L.Properties.Resources.resources
+C:\Users\vrrrr\source\repos\WPF_LAB_WORK_L\obj\Debug\WPF_LAB_WORK_L.csproj.GenerateResource.cache
+C:\Users\vrrrr\source\repos\WPF_LAB_WORK_L\obj\Debug\WPF_LAB_WORK_L.csproj.CoreCompileInputs.cache
+C:\Users\vrrrr\source\repos\WPF_LAB_WORK_L\obj\Debug\WPF_LAB_WORK_L.exe
+C:\Users\vrrrr\source\repos\WPF_LAB_WORK_L\obj\Debug\WPF_LAB_WORK_L.pdb
